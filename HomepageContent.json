@@ -28,12 +28,7 @@
     },
     "recommended":
     [
-      {
-        "pluginIcon": "https://raw.githubusercontent.com/plentymarkets/plugin-ceres/stable/resources/images/homepage/icon_plugin_etsy.png",
-        "pluginText": "Plugin für Etsy-Marktplatzintegration",
-        "pluginLink": "https://marketplace.plentymarkets.com/de/etsy/4689",
-        "pluginTitle": "Etsy"
-      },
+      
       {
         "pluginIcon": "https://raw.githubusercontent.com/plentymarkets/plugin-ceres/stable/resources/images/homepage/icon_plugin_contact.png",
         "pluginText": "Anzeige von Kontaktdaten im Webshop",
